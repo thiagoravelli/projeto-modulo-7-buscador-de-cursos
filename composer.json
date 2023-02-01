@@ -35,5 +35,6 @@
     },
     "scripts-descriptions": {
         "check": "Roda as verificações do código"
-    }
+    },
+    "license": "GPL-3.0"
 }
